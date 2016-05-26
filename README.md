@@ -1,6 +1,9 @@
 Java Engine
 ===
 
+This project is implementation of JSR-223 for Java.
+This project is mere clone from https://java.net/projects/scripting/sources/svn/show/trunk/engines/java?rev=236.
+
 This is JSR-223 script engine for "Java". This engine uses Java Compiler
 API (JSR 199) to compile and generate bytecode from Java source.
 
